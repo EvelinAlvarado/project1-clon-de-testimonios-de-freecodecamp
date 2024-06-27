@@ -21,7 +21,8 @@ This project is a responsive clone of a testimonial app showcasing feedback from
 ## Screenshots
 
 <div align="center" >
-  <img src="public/MacBook Pro-1716978240990.jpeg" width="80%" />
+  <img src="public/MacBook-Pro-1719505744897.jpeg" width="80%" />
+</div>
 
 ## Additional Information
 
